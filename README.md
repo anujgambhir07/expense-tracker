@@ -51,9 +51,9 @@ expense-tracker/
 
 ## Screenshot
 
-![Terminal output](png1.png)
-![Terminal output](png2.png)
-![Terminal output](png3.png)
+![Adding an expense](png1.png)
+![Viewing all expenses](png2.png)
+![Filtering by category](png3.png)
 
 ---
 
