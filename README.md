@@ -51,7 +51,9 @@ expense-tracker/
 
 ## Screenshot
 
-*(Add a screenshot of your terminal output here after running the program)*
+![Terminal output](png1.png)
+![Terminal output](png2.png)
+![Terminal output](png3.png)
 
 ---
 
