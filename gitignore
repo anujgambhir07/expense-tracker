@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data file — excluded so personal expense data isn't committed
+expenses.json
